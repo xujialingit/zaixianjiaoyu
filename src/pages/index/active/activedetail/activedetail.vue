@@ -6,7 +6,7 @@
         <img src="/static/images/bg2.jpg">
         <div class="xinicon iconfont icon-xin"></div>
       </div>
-      <div class="detaititle">传递理财小知识，通过增加理财知识，让自己更自信</div>
+      <div class="detaititle">天天传递小知识，通过增加理财知识，让自己更自信</div>
       <div class="teacherbox">
         <myguanzhu :itemobj="teacherobj"></myguanzhu>
       </div>
